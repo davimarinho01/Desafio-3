@@ -1,5 +1,5 @@
 <h1>Desafio 3 </h1>
-Link para o site hospedado no netfly: https://desafio-3-portfolio.netlify.app/
+Link para o site hospedado no netlifly: https://desafio-3-portfolio.netlify.app/
 
 
 
