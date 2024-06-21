@@ -1,0 +1,27 @@
+.mainDiv{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: left;
+    margin-top: 10em;
+    padding-top: 5em;
+    padding-left: 5em;
+    padding-right: 5em;
+}
+
+.links{
+    display: flex;
+}
+
+.links a{
+    color: #FFFFFF !important;
+    text-decoration: none;
+}
+
+.info{
+    padding: 15px;
+}
+
+.icons{
+    padding: 15px;
+}

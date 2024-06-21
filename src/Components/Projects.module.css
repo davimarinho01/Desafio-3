@@ -1,0 +1,13 @@
+.projects{
+    display: flex;
+    justify-content: column;
+    text-align: left;
+    padding-top: 7em;
+}
+
+.cards{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin:  5em 3em 3em 0em;
+}

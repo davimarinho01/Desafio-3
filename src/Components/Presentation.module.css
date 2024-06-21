@@ -1,0 +1,15 @@
+.presentation{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-top: 5em;
+    margin-left: 15px;
+}
+.presentation h1{
+    font-size: 2.5em;
+}
+
+.presentation p{
+    margin-left: 25px;
+    margin-top: 1em;
+}
