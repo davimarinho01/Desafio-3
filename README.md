@@ -1,5 +1,13 @@
-<h1>Desafio 3 </h1>
+<h1>Desafio 3 E Desafio 4 </h1>
 Link para o site hospedado no netlifly: https://desafio-3-portfolio.netlify.app/
+
+Desafio 4:
+
+Melhoria no design e funcionalidades do projeto
+
+![image](https://github.com/davimarinho01/Desafio-3/assets/148814974/d26b4536-1636-4ea7-aed5-3c107caa2b54)
+
+
 
 
 
