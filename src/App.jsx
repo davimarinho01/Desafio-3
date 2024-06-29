@@ -4,6 +4,7 @@ import Presentation from './Components/Presentation'
 import Projects from './Components/Projects'
 import About from './Components/About'
 import Footer from './Components/Footer'
+import Skills from './Components/Skills'
 
 function App() {
 
@@ -12,6 +13,7 @@ function App() {
       <div className="card">
         <Navbar />
         <Presentation />
+        <Skills/>
         <Projects />
         <About />
         <Footer />
