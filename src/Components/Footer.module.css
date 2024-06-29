@@ -1,12 +1,16 @@
 .mainDiv{
     display: flex;
-    justify-content: space-between;
+    flex-direction: column;
+    justify-content: center;
     align-items: center;
     text-align: left;
     margin-top: 10em;
     padding-top: 5em;
     padding-left: 5em;
     padding-right: 5em;
+}
+p{
+    margin-top: 1em;
 }
 
 .links{
